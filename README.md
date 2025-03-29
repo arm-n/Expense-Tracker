@@ -11,6 +11,7 @@ The Expense Tracker is a simple Tkinter-based GUI application that allows users 
 - **Data Storage**: Stores expenses in a JSON file for future reference.
 - **Clear Expenses**: Allows users to delete all recorded expenses.
 
+
 ## Technologies Used
 - Python
 - Tkinter (for GUI)
